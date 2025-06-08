@@ -139,16 +139,6 @@
         <mxCell id="5d2195bd80daf111-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;情境识别与输入机制&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;高任务复杂性&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;高成员自主性&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;权限集中程度&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
           <mxGeometry x="60" y="87" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="5d2195bd80daf111-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;fontColor=default;" parent="1" source="5d2195bd80daf111-19" target="17acba5748e5396b-30" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="660" y="210" />
-              <mxPoint x="550" y="210" />
-              <mxPoint x="550" y="200" />
-              <mxPoint x="660" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5d2195bd80daf111-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.75;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;fontColor=default;" parent="1" source="5d2195bd80daf111-19" target="5d2195bd80daf111-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -213,6 +203,16 @@
         </mxCell>
         <mxCell id="ZuLBRA5m4_wc91jB6PEB-1" value="权变风格适配判断机制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="168" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuLBRA5m4_wc91jB6PEB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.75;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="202" />
+              <mxPoint x="540" y="152" />
+            </Array>
+            <mxPoint x="260" y="202" as="sourcePoint" />
+            <mxPoint x="590" y="152" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
