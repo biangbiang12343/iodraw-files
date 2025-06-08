@@ -116,9 +116,7 @@
         <mxCell id="ZuLBRA5m4_wc91jB6PEB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5d2195bd80daf111-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="155" y="420" />
-              <mxPoint x="160" y="420" />
-              <mxPoint x="160" y="470" />
+              <mxPoint x="155" y="480" />
             </Array>
             <mxPoint x="110" y="430" as="sourcePoint" />
             <mxPoint x="140" y="480" as="targetPoint" />
