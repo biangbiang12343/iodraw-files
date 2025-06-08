@@ -142,10 +142,10 @@
         <mxCell id="5d2195bd80daf111-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;fontColor=default;" parent="1" source="5d2195bd80daf111-19" target="17acba5748e5396b-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="310" />
-              <mxPoint x="350" y="210" />
+              <mxPoint x="660" y="210" />
               <mxPoint x="550" y="210" />
-              <mxPoint x="550" y="160" />
+              <mxPoint x="550" y="200" />
+              <mxPoint x="660" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
