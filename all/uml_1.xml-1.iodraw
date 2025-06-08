@@ -109,6 +109,9 @@
         <mxCell id="ZuLBRA5m4_wc91jB6PEB-6" value="情境Ⅰ：支持型领导&lt;div&gt;情境Ⅱ：任务导向型领导&lt;/div&gt;&lt;div&gt;情境Ⅲ：参与+成就导向型&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;" vertex="1" parent="ZuLBRA5m4_wc91jB6PEB-5">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
         </mxCell>
+        <mxCell id="ZuLBRA5m4_wc91jB6PEB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuLBRA5m4_wc91jB6PEB-8" target="17acba5748e5396b-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZuLBRA5m4_wc91jB6PEB-8" value="组织治理支持机制配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="318" width="140" height="30" as="geometry" />
         </mxCell>
