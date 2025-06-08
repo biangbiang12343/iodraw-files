@@ -204,13 +204,14 @@
         <mxCell id="ZuLBRA5m4_wc91jB6PEB-1" value="权变风格适配判断机制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="168" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZuLBRA5m4_wc91jB6PEB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.75;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;fontColor=default;" edge="1" parent="1">
+        <mxCell id="ZuLBRA5m4_wc91jB6PEB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5d2195bd80daf111-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="660" y="202" />
               <mxPoint x="540" y="202" />
-              <mxPoint x="540" y="152" />
+              <mxPoint x="540" y="260" />
             </Array>
-            <mxPoint x="260" y="202" as="sourcePoint" />
+            <mxPoint x="660" y="200" as="sourcePoint" />
             <mxPoint x="590" y="152" as="targetPoint" />
           </mxGeometry>
         </mxCell>
