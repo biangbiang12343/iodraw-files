@@ -145,13 +145,12 @@
               <mxPoint x="670" y="379" />
               <mxPoint x="313" y="379" />
               <mxPoint x="313" y="380" />
-              <mxPoint x="360" y="380" />
-              <mxPoint x="360" y="281" />
-              <mxPoint x="230" y="281" />
+              <mxPoint x="230" y="380" />
               <mxPoint x="230" y="310" />
+              <mxPoint x="220" y="310" />
             </Array>
             <mxPoint x="670" y="370" as="sourcePoint" />
-            <mxPoint x="150" y="280" as="targetPoint" />
+            <mxPoint x="220" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5d2195bd80daf111-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;fontColor=default;" parent="1" source="5d2195bd80daf111-20" target="5d2195bd80daf111-14" edge="1">
