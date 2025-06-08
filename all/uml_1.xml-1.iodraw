@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="1947" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2339" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,18 +101,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZuLBRA5m4_wc91jB6PEB-3" value="匹配" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="660" y="210" width="50" height="30" as="geometry" />
+          <mxGeometry x="670" y="390" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZuLBRA5m4_wc91jB6PEB-5" value="领导风格匹配" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
           <mxGeometry x="590" y="626" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ZuLBRA5m4_wc91jB6PEB-6" value="情境Ⅰ：支持型领导&lt;div&gt;情境Ⅱ：任务导向型领导&lt;/div&gt;&lt;div&gt;情境Ⅲ：参与+成就导向型&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;" vertex="1" parent="ZuLBRA5m4_wc91jB6PEB-5">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
-        </mxCell>
-        <mxCell id="ZuLBRA5m4_wc91jB6PEB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuLBRA5m4_wc91jB6PEB-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="815.0000000000002" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ZuLBRA5m4_wc91jB6PEB-8" value="组织治理支持机制配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="654" width="140" height="30" as="geometry" />
