@@ -236,6 +236,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZuLBRA5m4_wc91jB6PEB-1" value="权变风格适配判断机制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="168" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
