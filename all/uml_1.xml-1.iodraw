@@ -144,9 +144,9 @@
             <Array as="points">
               <mxPoint x="748" y="379" />
               <mxPoint x="313" y="379" />
-              <mxPoint x="313" y="390" />
-              <mxPoint x="193" y="390" />
-              <mxPoint x="193" y="450" />
+              <mxPoint x="313" y="380" />
+              <mxPoint x="150" y="380" />
+              <mxPoint x="150" y="450" />
             </Array>
             <mxPoint x="747.5" y="369" as="sourcePoint" />
             <mxPoint x="372.5" y="450" as="targetPoint" />
