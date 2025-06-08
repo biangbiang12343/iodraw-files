@@ -82,17 +82,14 @@
         <mxCell id="5d2195bd80daf111-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;情境识别与输入机制&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;高任务复杂性&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;高成员自主性&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;权限集中程度&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
           <mxGeometry x="60" y="87" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="5d2195bd80daf111-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="5d2195bd80daf111-20" edge="1">
+        <mxCell id="5d2195bd80daf111-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="350" />
             </Array>
             <mxPoint x="670" y="370" as="sourcePoint" />
-            <mxPoint x="220" y="360" as="targetPoint" />
+            <mxPoint x="250" y="350" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5d2195bd80daf111-20" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br/&gt;&lt;b&gt;Interface&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: Type&lt;br/&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br/&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
-          <mxGeometry x="60" y="290" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZuLBRA5m4_wc91jB6PEB-1" value="权变风格适配判断机制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="140" height="30" as="geometry" />
@@ -113,13 +110,13 @@
         <mxCell id="ZuLBRA5m4_wc91jB6PEB-6" value="情境Ⅰ：支持型领导&lt;div&gt;情境Ⅱ：任务导向型领导&lt;/div&gt;&lt;div&gt;情境Ⅲ：参与+成就导向型&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;" vertex="1" parent="ZuLBRA5m4_wc91jB6PEB-5">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="ZuLBRA5m4_wc91jB6PEB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5d2195bd80daf111-20" target="5d2195bd80daf111-5">
+        <mxCell id="ZuLBRA5m4_wc91jB6PEB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5d2195bd80daf111-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="155" y="480" />
               <mxPoint x="155" y="480" />
             </Array>
-            <mxPoint x="110" y="430" as="sourcePoint" />
+            <mxPoint x="155" y="410" as="sourcePoint" />
             <mxPoint x="140" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
