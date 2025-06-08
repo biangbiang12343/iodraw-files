@@ -123,8 +123,8 @@
             <mxPoint x="140" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZuLBRA5m4_wc91jB6PEB-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="405" y="318" width="50" height="30" as="geometry" />
+        <mxCell id="ZuLBRA5m4_wc91jB6PEB-8" value="组织治理支持机制配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="318" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
