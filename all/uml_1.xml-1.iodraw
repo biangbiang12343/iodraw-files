@@ -91,7 +91,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZuLBRA5m4_wc91jB6PEB-1" value="权变风格适配判断机制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="140" height="30" as="geometry" />
+          <mxGeometry x="330" y="100" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZuLBRA5m4_wc91jB6PEB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;fontColor=default;entryX=0.44;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZuLBRA5m4_wc91jB6PEB-5">
           <mxGeometry relative="1" as="geometry">
@@ -108,16 +108,6 @@
         </mxCell>
         <mxCell id="ZuLBRA5m4_wc91jB6PEB-6" value="情境Ⅰ：支持型领导&lt;div&gt;情境Ⅱ：任务导向型领导&lt;/div&gt;&lt;div&gt;情境Ⅲ：参与+成就导向型&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;" vertex="1" parent="ZuLBRA5m4_wc91jB6PEB-5">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
-        </mxCell>
-        <mxCell id="ZuLBRA5m4_wc91jB6PEB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5d2195bd80daf111-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="155" y="480" />
-              <mxPoint x="155" y="480" />
-            </Array>
-            <mxPoint x="155" y="410" as="sourcePoint" />
-            <mxPoint x="140" y="480" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ZuLBRA5m4_wc91jB6PEB-8" value="组织治理支持机制配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="318" width="140" height="30" as="geometry" />
