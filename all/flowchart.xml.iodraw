@@ -50,8 +50,8 @@
         </mxCell>
         <mxCell id="krVTMsTe7cY14cAv4ix7-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="239.5" y="160" as="sourcePoint" />
-            <mxPoint x="239.5" y="210" as="targetPoint" />
+            <mxPoint x="239.5" y="148" as="sourcePoint" />
+            <mxPoint x="239.5" y="198" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="krVTMsTe7cY14cAv4ix7-2" value="阅读文献，筛选文献" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
