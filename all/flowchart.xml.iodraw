@@ -40,6 +40,9 @@
         <mxCell id="krVTMsTe7cY14cAv4ix7-5" value="得到最终文本，自己再进行修改" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="700" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="krVTMsTe7cY14cAv4ix7-6" value="将文献喂给AI，要求按照管理学顶级期刊如AMJ的逻辑进行文献综述撰写，如果缺少资料可以自行联网补充文献" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="200" width="210" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
